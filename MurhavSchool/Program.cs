@@ -8,6 +8,10 @@ namespace MurhavSchool
 {
     class Program
     {
+/// <summary>
+/// heara
+/// </summary>
+/// <param name="args"></param>
         static void Main(string[] args)
         {
             Student s1 = new Student("yossy", "123456789", 99, 77, 95);
